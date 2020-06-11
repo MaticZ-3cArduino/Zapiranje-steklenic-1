@@ -7,9 +7,12 @@ S tipko A aktiviramo gibanje enosmernega cilindra navzdol in s tem nameščanje 
 Priredbena tabela:
 
 Vhodi:
+
 oznaka     naslov operanda    vrsta kontakta      pomen
 A              x0                 NO              nameščanje čepa v vrat steklenice, vklop gibanja navzdol
+
 S              x1                 NO              pogoj za gibanje navzdol
+
 Ksp            x2                 NO              izklop gibanja navzdol
 
 Izhodi:
