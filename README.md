@@ -9,6 +9,7 @@ Priredbena tabela:
 Vhodi:
 
 oznaka     naslov operanda    vrsta kontakta      pomen
+
 A              x0                 NO              nameščanje čepa v vrat steklenice, vklop gibanja navzdol
 
 S              x1                 NO              pogoj za gibanje navzdol
@@ -16,7 +17,9 @@ S              x1                 NO              pogoj za gibanje navzdol
 Ksp            x2                 NO              izklop gibanja navzdol
 
 Izhodi:
+
 oznaka    naslov operanda     aktiven pri         pomen
+
 cilinder        y0                1               gibanje cilindra 
 
 Kosovnica: 
